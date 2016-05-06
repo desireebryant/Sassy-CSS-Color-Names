@@ -7,4 +7,6 @@ Color values are in HEX.
 
 Hope someone finds this helpful.
 
-TODO: Add color values in RGB and HSL.
+Update: 5/5/2016: Added RGB color values
+
+TODO: Add color values HSL
