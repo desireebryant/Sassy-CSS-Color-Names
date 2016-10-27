@@ -9,4 +9,4 @@ Hope someone finds this helpful.
 
 Update: 5/5/2016: Added RGB color values
 
-TODO: Add color values HSL
+Update: 10/26/2016: Added HSL color values
